@@ -37,7 +37,6 @@
   "whitelist": [
     "/^https?://192\\.168\\.\\d+\\.\\d+//",
     "/^https?://linksys\\d+\\.local/",
-    "aax-fe.amazon-adsystem.com",
     "about-scheme",
     "account.coolermaster.com",
     "chrome-extension-scheme",
