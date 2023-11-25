@@ -1,5 +1,6 @@
 [
   {
+    "id": "4868398496183298805",
     "type": "field",
     "inboundTag": [],
     "outboundTag": "proxy",
@@ -10,6 +11,7 @@
     "enabled": true
   },
   {
+    "id": "5458252993520557278",
     "inboundTag": [],
     "outboundTag": "direct",
     "domain": [
@@ -20,6 +22,8 @@
     "enabled": true
   },
   {
+    "id": "5201184916446950861",
+    "port": "",
     "inboundTag": [],
     "outboundTag": "block",
     "domain": [
@@ -70,6 +74,8 @@
     "enabled": true
   },
   {
+    "id": "5670815978551678955",
+    "port": "",
     "inboundTag": [],
     "outboundTag": "proxy",
     "ip": [
@@ -78,8 +84,10 @@
     "enabled": true
   },
   {
-    "inboundTag": [],
+    "id": "5353484797864036569",
+    "port": "",
     "outboundTag": "proxy",
+    "ip": [],
     "domain": [
       "# Adobe",
       "stock.adobe.com",
@@ -113,6 +121,7 @@
       "#",
       "# Others",
       "5ch.net",
+      "700.mn",
       "# A",
       "abema.tv",
       "cdn1.affirm.com",
@@ -140,6 +149,7 @@
       "cdnjs.cloudflare.com",
       "d1hc4zdhstp3wq.cloudfront.net",
       "diz36nn4q02zr.cloudfront.net",
+      "cnbeta.com.tw",
       "cdn.cookielaw.org",
       "cpubenchmark.net",
       "ctmp.space",
@@ -174,6 +184,7 @@
       "cdn.hinative.com",
       "hktvapp.com",
       "fs2.hxfile.co",
+      "m3u.haiwaikan.com",
       "#",
       "# I",
       "ibyteimg.com",
@@ -187,6 +198,7 @@
       "cdn.keepa.com",
       "dyn.keepa.com",
       "www.kisling.com",
+      "cdn.kin6c1.com",
       "#",
       "# L",
       "download01.logi.com",
@@ -204,6 +216,7 @@
       "#",
       "# N",
       "dl.ndl.go.jp",
+      "nexon.co.jp",
       "#",
       "# O",
       "www.ohki-tokyo.com",
@@ -261,9 +274,11 @@
       "geosite:gfw",
       "geosite:greatfire"
     ],
+    "process": [],
     "enabled": true
   },
   {
+    "id": "4816409459663401856",
     "port": "0-65535",
     "outboundTag": "direct",
     "enabled": true
