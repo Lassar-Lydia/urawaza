@@ -1,6 +1,6 @@
 [
   {
-    "id": "4868398496183298805",
+    "id": "5376871172679609767",
     "type": "field",
     "inboundTag": [],
     "outboundTag": "proxy",
@@ -11,7 +11,7 @@
     "enabled": true
   },
   {
-    "id": "5458252993520557278",
+    "id": "5760159749944168636",
     "inboundTag": [],
     "outboundTag": "direct",
     "domain": [
@@ -22,7 +22,7 @@
     "enabled": true
   },
   {
-    "id": "5201184916446950861",
+    "id": "5172918739637581382",
     "port": "",
     "inboundTag": [],
     "outboundTag": "block",
@@ -74,7 +74,7 @@
     "enabled": true
   },
   {
-    "id": "5670815978551678955",
+    "id": "4849717355030357236",
     "port": "",
     "inboundTag": [],
     "outboundTag": "proxy",
@@ -84,7 +84,7 @@
     "enabled": true
   },
   {
-    "id": "5353484797864036569",
+    "id": "4805652102079828776",
     "port": "",
     "outboundTag": "proxy",
     "ip": [],
@@ -189,6 +189,7 @@
       "# I",
       "ibyteimg.com",
       "image.itmedia.co.jp",
+      "iz8qkg.com",
       "#",
       "# J",
       "cdn.jsdelivr.net",
@@ -278,7 +279,7 @@
     "enabled": true
   },
   {
-    "id": "4816409459663401856",
+    "id": "5465224012180343675",
     "port": "0-65535",
     "outboundTag": "direct",
     "enabled": true
